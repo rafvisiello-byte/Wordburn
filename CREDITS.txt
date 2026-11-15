@@ -1,0 +1,13 @@
+Wordburn - fonti dei dizionari e delle risorse
+
+Italiano: napolux/paroleitaliane, file 60000_parole_italiane.txt filtrato da 3 a 9 lettere
+  (licenza MIT, Copyright (c) 2016 Francesco Napoletano, vedi LICENSE-parole-it.txt),
+  integrato con parole comuni scritte per il gioco e parole corte dallo stesso repository.
+Inglese: SCOWL (en-wl/wordlist, licenza permissiva, vedi LICENSE-words-en.txt)
+  incrociata con ENABLE (pubblico dominio).
+Font: Alfa Slab One e Figtree (SIL Open Font License, vedi fonts/).
+Effetti: PixiJS 8.6.6 (licenza MIT, nota in testa a lib/pixi.min.js).
+
+Font "Lilita One" by Juan Montoreano - SIL Open Font License 1.1 (https://openfontlicense.org)
+Background images, logo and wooden tiles: generated for Wordburn with an AI image model (Gemini via Figma) and edited by the author.
+Music: "Ember Lullaby" - original track composed and synthesized for Wordburn (no samples, no third-party material).
